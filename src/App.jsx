@@ -474,13 +474,13 @@ function Contact() {
       <h2 className="sec-title reveal">
         Let's <span className="accent">Connect</span>
       </h2>
-      <p className="sec-sub reveal">say hello</p>
+      <p className="sec-sub reveal">say Hello</p>
       <div className="contact-card reveal-pop">
         <span className="heart">💌</span>
         <h3>I'd love to hear from you!</h3>
         <p>
           Whether it's an opportunity, a collaboration, or just a friendly
-          hello — my inbox is always open. Let's create something wonderful
+          Hello, my inbox is always open. Let's create something wonderful
           together. 🌷
         </p>
         <div className="socials">
@@ -499,7 +499,7 @@ function Contact() {
           ))}
         </div>
         <a className="contact-mail" href="mailto:#">
-          add-your-email-here ♡
+          Emain-Btain-Yahan-Dalon ♡
         </a>
       </div>
     </section>
@@ -511,7 +511,7 @@ function Footer() {
   return (
     <footer>
       <div className="made">
-        Designed with <span className="heartbeat">♡</span> for Noor ul Ain
+        Designed with <span className="heartbeat">♡</span> for Noor ul Ain by Mr. Hunain Ashfaq
       </div>
       <div style={{ marginTop: '6px', fontSize: '13px', opacity: 0.9 }}>
         © {new Date().getFullYear()} Noor ul Ain · Humanities Portfolio
