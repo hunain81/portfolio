@@ -10,7 +10,7 @@ Thumbs.db
 # README excluded from repo (per request)
 README.md
 
-# private photo — kept local only, never pushed
+# private photo - kept local only, never pushed
 public/photo.jpg
 src/photoData.local.js
 Screenshot_*.jpg
