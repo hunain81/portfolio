@@ -466,7 +466,7 @@ function Contact() {
   const socials = [
     { cls: 'sb-linkedin', icon: 'in', url: '#', label: 'LinkedIn' },
     { cls: 'sb-email', icon: '✉', url: 'mailto:#', label: 'Email' },
-    { cls: 'sb-insta', icon: '◎', url: '#', label: 'Instagram' },
+    { cls: 'sb-insta', icon: '◎', url: 'https://www.instagram.com/noor_eygram?igsh=dWdyNGM3OHBiaXhw', label: 'Instagram' },
     { cls: 'sb-behance', icon: 'Bē', url: '#', label: 'Behance' },
   ]
   return (
