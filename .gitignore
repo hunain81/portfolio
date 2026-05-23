@@ -1,0 +1,18 @@
+# dependencies & build output
+node_modules
+dist
+*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# README excluded from repo (per request)
+README.md
+
+# private photo — kept local only, never pushed
+public/photo.jpg
+src/photoData.local.js
+Screenshot_*.jpg
+Screenshot_*.jpeg
+Screenshot_*.png
